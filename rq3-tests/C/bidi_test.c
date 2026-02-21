@@ -1,4 +1,4 @@
-//comment for rq3 diff test
+// rq3 diff test
 #include <stdio.h>
 
 #include <stdio.h>
@@ -15,3 +15,4 @@ int main(void) {
     return 0;
 
 }
+
